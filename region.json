@@ -1,0 +1,418 @@
+[
+    {
+      "region": {
+        "name": "North Central",
+        "region_code": "NC",
+        "major_languages": ["Hausa", "Nupe", "Yoruba", "Igala", "Idoma"],
+        "population": 26504348,
+        "total_area": "126,078 km²",
+        "states": [
+          {
+            "name": "Benue State",
+            "capital": "Makurdi",
+            "state_code": "BEN",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "7.3515",
+              "longitude": "8.0687"
+            },
+            "total_area": "34,059 km²",
+            "population": 4253641,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Kogi State",
+            "capital": "Lokoja",
+            "state_code": "KOG",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "7.8000",
+              "longitude": "6.7166"
+            },
+            "total_area": "29,833 km²",
+            "population": 3314043,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Kwara State",
+            "capital": "Ilorin",
+            "state_code": "KWA",
+            "creation_date": "1967",
+            "location": {
+              "latitude": "8.4800",
+              "longitude": "4.5500"
+            },
+            "total_area": "36,825 km²",
+            "population": 2365353,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Nasarawa State",
+            "capital": "Lafia",
+            "state_code": "NAS",
+            "creation_date": "1996",
+            "location": {
+              "latitude": "8.4900",
+              "longitude": "8.5200"
+            },
+            "total_area": "27,117 km²",
+            "population": 1869377,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Niger State",
+            "capital": "Minna",
+            "state_code": "NIG",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "9.5700",
+              "longitude": "6.5600"
+            },
+            "total_area": "76,363 km²",
+            "population": 3954772,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Plateau State",
+            "capital": "Jos",
+            "state_code": "PLA",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "9.9200",
+              "longitude": "8.9000"
+            },
+            "total_area": "30,913 km²",
+            "population": 3206531,
+            "postal_code": null,
+            "religions": []
+          }
+        ]
+      }
+    },
+    {
+      "region": {
+        "name": "North East",
+        "region_code": "NE",
+        "major_languages": ["Hausa", "Fulfulde", "Kanuri"],
+        "population": 18709869,
+        "total_area": "190,157 km²",
+        "states": [
+          {
+            "name": "Adamawa State",
+            "capital": "Yola",
+            "state_code": "ADA",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "9.2800",
+              "longitude": "12.5800"
+            },
+            "total_area": "36,917 km²",
+            "population": 3178950,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Bauchi State",
+            "capital": "Bauchi",
+            "state_code": "BAU",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "10.3100",
+              "longitude": "9.8400"
+            },
+            "total_area": "49,353 km²",
+            "population": 4653066,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Borno State",
+            "capital": "Maiduguri",
+            "state_code": "BOR",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "11.8400",
+              "longitude": "13.1600"
+            },
+            "total_area": "70,898 km²",
+            "population": 6113957,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Gombe State",
+            "capital": "Gombe",
+            "state_code": "GOM",
+            "creation_date": "1996",
+            "location": {
+              "latitude": "10.2900",
+              "longitude": "11.1700"
+            },
+            "total_area": "18,768 km²",
+            "population": 2365040,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Taraba State",
+            "capital": "Jalingo",
+            "state_code": "TAR",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "8.9100",
+              "longitude": "11.3600"
+            },
+            "total_area": "54,473 km²",
+            "population": 2294800,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Yobe State",
+            "capital": "Damaturu",
+            "state_code": "YOB",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "12.1800",
+              "longitude": "11.7400"
+            },
+            "total_area": "45,502 km²",
+            "population": 2321339,
+            "postal_code": null,
+            "religions": []
+          }
+        ]
+      }
+    },
+    {
+      "region": {
+        "name": "North West",
+        "region_code": "NW",
+        "major_languages": ["Hausa"],
+        "population": 54967433,
+        "total_area": "216,065 km²",
+        "states": [
+          {
+            "name": "Jigawa State",
+            "capital": "Dutse",
+            "state_code": "JIG",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "12.4000",
+              "longitude": "9.5200"
+            },
+            "total_area": "23,154 km²",
+            "population": 4361002,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Kaduna State",
+            "capital": "Kaduna",
+            "state_code": "KAD",
+            "creation_date": "1967",
+            "location": {
+              "latitude": "10.5200",
+              "longitude": "7.4400"
+            },
+            "total_area": "46,053 km²",
+            "population": 6113503,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Kano State",
+            "capital": "Kano",
+            "state_code": "KAN",
+            "creation_date": "1967",
+            "location": {
+              "latitude": "11.9964",
+              "longitude": "8.6536"
+            },
+            "total_area": "20,131 km²",
+            "population": 9137985,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Katsina State",
+            "capital": "Katsina",
+            "state_code": "KAT",
+            "creation_date": "1987",
+            "location": {
+              "latitude": "12.9908",
+              "longitude": "7.6018"
+            },
+            "total_area": "24,192 km²",
+            "population": 7999154,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Kebbi State",
+            "capital": "Birnin Kebbi",
+            "state_code": "KEB",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "12.4500",
+              "longitude": "4.1994"
+            },
+            "total_area": "36,800 km²",
+            "population": 3681093,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Sokoto State",
+            "capital": "Sokoto",
+            "state_code": "SOK",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "13.0600",
+              "longitude": "5.2400"
+            },
+            "total_area": "25,973 km²",
+            "population": 5198605,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Zamfara State",
+            "capital": "Gusau",
+            "state_code": "ZAM",
+            "creation_date": "1996",
+            "location": {
+              "latitude": "12.1700",
+              "longitude": "6.6600"
+            },
+            "total_area": "39,762 km²",
+            "population": 4273531,
+            "postal_code": null,
+            "religions": []
+          }
+        ]
+      }
+    },
+    {
+      "region": {
+        "name": "South East",
+        "region_code": "SE",
+        "major_languages": ["Igbo"],
+        "population": 16797821,
+        "total_area": "78,094 km²",
+        "states": [
+          {
+            "name": "Abia State",
+            "capital": "Umuahia",
+            "state_code": "ABI",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "5.4527",
+              "longitude": "7.5248"
+            },
+            "total_area": "6,320 km²",
+            "population": 4112230,
+            "postal_code": null,
+            "religions": []
+          }
+        ]
+      }
+    },
+    {
+      "region": {
+        "name": "South South",
+        "region_code": "SS",
+        "major_languages": ["Ijaw", "Igbo", "Edo"],
+        "population": 21769488,
+        "total_area": "110,732 km²",
+        "states": []
+      }
+    },
+    {
+      "region": {
+        "name": "South West",
+        "region_code": "SW",
+        "major_languages": ["Yoruba"],
+        "population": 39175061,
+        "total_area": "74,233 km²",
+        "states": [
+          {
+            "name": "Lagos State",
+            "capital": "Ikeja",
+            "state_code": "LAG",
+            "creation_date": "1967",
+            "location": {
+              "latitude": "6.5244",
+              "longitude": "3.3792"
+            },
+            "total_area": "3,577 km²",
+            "population": 13992000,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Ogun State",
+            "capital": "Abeokuta",
+            "state_code": "OGU",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "7.1604",
+              "longitude": "3.3500"
+            },
+            "total_area": "16,980 km²",
+            "population": 3751140,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Ondo State",
+            "capital": "Akure",
+            "state_code": "OND",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "7.2500",
+              "longitude": "5.2000"
+            },
+            "total_area": "15,500 km²",
+            "population": 5184997,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Osun State",
+            "capital": "Oshogbo",
+            "state_code": "OSU",
+            "creation_date": "1991",
+            "location": {
+              "latitude": "7.7700",
+              "longitude": "4.5600"
+            },
+            "total_area": "9,251 km²",
+            "population": 3416959,
+            "postal_code": null,
+            "religions": []
+          },
+          {
+            "name": "Oyo State",
+            "capital": "Ibadan",
+            "state_code": "OYO",
+            "creation_date": "1976",
+            "location": {
+              "latitude": "7.9700",
+              "longitude": "3.5900"
+            },
+            "total_area": "28,454 km²",
+            "population": 5580894,
+            "postal_code": null,
+            "religions": []
+          }
+        ]
+      }
+    }
+  ]
+  
